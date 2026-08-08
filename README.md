@@ -1,4 +1,4 @@
-# SQA Homework Submission
+# playwright-ai-chatbot-tests
 
 [Live Report](https://asifnawaz0129.github.io/sqa-homework-asif-nawaz/)
 
